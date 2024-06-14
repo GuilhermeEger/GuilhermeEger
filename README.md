@@ -6,7 +6,7 @@ I am a former manager and front-end developer with six years of experience worki
 
 Skills: React.js, JavaScript, HTML, CSS, Next.js, TypeScript, React Native
 
-- 🔭 I’m currently working on My portfolio with new projects 
+- 🔭 I’m currently working on My portfolio with new projects https://guilhermeeger.github.io/portfolio/
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on Chalenging front-end projets! 
 - 🤔 I’m looking for help with Fit into the Australian job market 
